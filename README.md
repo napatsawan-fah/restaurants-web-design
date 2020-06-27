@@ -1,1 +1,1 @@
-# restaurants-web-design
+# restaurants
